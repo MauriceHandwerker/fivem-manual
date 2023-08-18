@@ -1,14 +1,25 @@
 # FiveM Basic Manual
 
 This Manual will be updated in the future and be mantained. 
+<!-- vscode-markdown-toc -->
+* 1. [In Game](#InGame)
+	* 1.1. [Open Console](#OpenConsole)
+	* 1.2. [Manage resources](#Manageresources)
+		* 1.2.1. [Start resource:](#Startresource:)
 
-## In Game
-### Open Console
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+##  1. <a name='InGame'></a>In Game
+###  1.1. <a name='OpenConsole'></a>Open Console
 The default key-bind for the console is F8
 
-### Manage resources
+###  1.2. <a name='Manageresources'></a>Manage resources
 For non necessary resources you can stop, start or restart them without restarting the server. 
-#### Start resource:
+####  1.2.1. <a name='Startresource:'></a>Start resource:
 ```start resource-name```
 #### Stop resource:
 ``stop resource-name``
